@@ -1,0 +1,12 @@
+Project 1:  Frogger  [150 points] 
+The urban horticulture program on campus thinks we can eliminate roadkill incidents by training the 
+local wildlife to avoid cars.  Your job is to develop a high-tech traffic simulator so they can learn how to 
+safely cross the road ( see https://en.wikipedia.org/wiki/Frogger ). 
+Basic Requirements: 
+• A board of at least 4×8 LEDs with easily recognizable ends of the road (where cars start/end). 
+• One LED color representing cars and another LED color representing your frog. 
+• Cars moving in one direction in some basic pattern. 
+• User has left, right, back, forward buttons to move the frog. 
+• If the frog ends up in the same square as a car, they become roadkill soufflé (squish!). 
+• If the user gets the frog from one side of the board to the other, they win and play again. 
+• The frog should be able to move faster than the cars. 
